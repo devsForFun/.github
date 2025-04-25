@@ -6,7 +6,7 @@
 
 This is a fork of the [Hashnode's](https://hashnode.com) open source blog starter kit aimed at supporting thier headless CMS users. The aim of this fork is to upgrade the blog starter kit to use the latest versions of the technologies and features.
 
-Repo: [devsForFun/blog-starter-kit](https://github.com/devsForFun/blog-starter-kit)
+- Repo: [devsForFun/blog-starter-kit](https://github.com/devsForFun/blog-starter-kit)
 
 ## Archived Projects
 
