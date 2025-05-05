@@ -8,6 +8,12 @@ This is a fork of the [Hashnode's](https://hashnode.com) open source [blog start
 
 - Repo: [devsForFun/blog-starter-kit](https://github.com/devsForFun/blog-starter-kit)
 
+### 2. Frontend Template
+
+A modern SaaS template built with Next.js 15, Tailwind CSS v4, Shadcn UI v2, and Supabase.
+
+- Repo: [devsForFun/frontend-template](https://github.com/devsForFun/frontend-template)
+
 ## Archived Projects
 
 ### s1
